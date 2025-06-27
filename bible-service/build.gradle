@@ -5,7 +5,7 @@ plugins {
     id "io.sentry.jvm.gradle" version "4.10.0"
 }
 
-group = 'org.church'
+group = 'org.church.bible'
 version = '1.0-SNAPSHOT'
 
 java {
@@ -32,7 +32,7 @@ dependencies {
     implementation 'org.springframework.boot:spring-boot-devtools'
 
     // feign client
-    implementation 'org.springframework.cloud:spring-cloud-starter-openfeign:4.1.0-RC1'
+    implementation 'org.springframework.cloud:spring-cloud-starter-openfeign:4.1.0'
 
     // json object
     implementation group: 'com.googlecode.json-simple', name: 'json-simple', version: '1.1.1'
@@ -59,11 +59,7 @@ dependencies {
     implementation 'org.springdoc:springdoc-openapi-starter-webmvc-ui:2.0.2'
 
     // Java SDK 2.x S3
-    implementation 'com.amazonaws:aws-java-sdk-s3:1.12.174'
-
-    // Firebase SDK
-    // reference : https://firebase.google.com/docs/admin/setup?hl=ko#java
-    implementation 'com.google.firebase:firebase-admin:9.3.0'
+    implementation 'com.amazonaws:aws-java-sdk-s3:1.12.261'
 
     // Netty on which the Firebase Admin SDK depends
     implementation 'io.netty:netty-codec-http:4.1.108.Final'

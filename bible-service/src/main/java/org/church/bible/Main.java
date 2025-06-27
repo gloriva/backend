@@ -1,4 +1,4 @@
-package org.church;
+package org.church.bible;
 
 public class Main {
     public static void main(String[] args) {

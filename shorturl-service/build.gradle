@@ -5,7 +5,7 @@ plugins {
     id "io.sentry.jvm.gradle" version "4.10.0"
 }
 
-group = 'org.church'
+group = 'org.church.shorturl'
 version = '1.0-SNAPSHOT'
 
 java {
@@ -32,7 +32,7 @@ dependencies {
     implementation 'org.springframework.boot:spring-boot-devtools'
 
     // feign client
-    implementation 'org.springframework.cloud:spring-cloud-starter-openfeign:4.1.0-RC1'
+    implementation 'org.springframework.cloud:spring-cloud-starter-openfeign:4.1.0'
 
     // json object
     implementation group: 'com.googlecode.json-simple', name: 'json-simple', version: '1.1.1'

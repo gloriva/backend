@@ -1,4 +1,4 @@
-package org.church;
+package org.church.shorturl;
 
 public class Main {
     public static void main(String[] args) {
