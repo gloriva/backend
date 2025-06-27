@@ -96,6 +96,7 @@ dependencies {
     implementation 'com.slack.api:slack-api-client:1.45.1'
 
     implementation 'com.fasterxml.jackson.core:jackson-databind:2.15.2'
+    implementation project(':common:global-exception')
 }
 
 test {

@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/church-platform.iml" filepath="$PROJECT_DIR$/.idea/church-platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/global-exception.main.iml" filepath="$PROJECT_DIR$/.idea/modules/global-exception.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/global-exception.test.iml" filepath="$PROJECT_DIR$/.idea/modules/global-exception.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/org.global.exception.global-exception.main.iml" filepath="$PROJECT_DIR$/.idea/modules/org.global.exception.global-exception.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/org.global.exception.global-exception.test.iml" filepath="$PROJECT_DIR$/.idea/modules/org.global.exception.global-exception.test.iml" />
     </modules>
   </component>
 </project>
