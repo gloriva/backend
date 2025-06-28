@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/common/global-exception" />
-        <option name="gradleHome" value="" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="corretto-20" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/common/global-exception" />
-          </set>
-        </option>
-      </GradleProjectSettings>
-      <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/global-exception" />
-        <option name="gradleHome" value="" />
-        <option name="modules">
-          <set>
-            <option value="$PROJECT_DIR$/global-exception" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/common" />
+            <option value="$PROJECT_DIR$/common/dependencies" />
+            <option value="$PROJECT_DIR$/services" />
+            <option value="$PROJECT_DIR$/services/bible-service" />
+            <option value="$PROJECT_DIR$/services/shorturl-service" />
+            <option value="$PROJECT_DIR$/services/user-service" />
+            <option value="$PROJECT_DIR$/services/weekly-service" />
           </set>
         </option>
       </GradleProjectSettings>

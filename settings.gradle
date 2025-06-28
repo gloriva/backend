@@ -1,7 +1,11 @@
 rootProject.name = 'church-platform'
 
-include 'bible-service'
-include 'shorturl-service'
-include 'user-service'
-include 'weekly-service'
-include 'common:global-exception'
+// 서비스 모듈
+include 'services:user-service'
+include 'services:weekly-service'
+include 'services:bible-service'
+include 'services:shorturl-service'
+
+// 공통 모듈
+include('common:dependencies')
+project(':common:dependencies').projectDir = file('common/dependencies')
