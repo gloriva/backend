@@ -9,3 +9,5 @@ include 'services:shorturl-service'
 // 공통 모듈
 include('common:dependencies')
 project(':common:dependencies').projectDir = file('common/dependencies')
+project(':services:bible-service').projectDir = file('services/bible-service')
+project(':services:user-service').projectDir = file('services/user-service')

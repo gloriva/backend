@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: io.sentry:sentry-spring-boot-jakarta:7.12.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="io.sentry" artifactId="sentry-spring-boot-jakarta" version="7.12.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.sentry/sentry-spring-boot-jakarta/7.12.0/466b97bb32ff4251c5abfc44e0afd2b5f2fe9bd1/sentry-spring-boot-jakarta-7.12.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: io.sentry:sentry-logback:7.12.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="io.sentry" artifactId="sentry-logback" version="7.12.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.sentry/sentry-logback/7.12.0/37666be647b5b27a2a5e234946b5d1c76e60221b/sentry-logback-7.12.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

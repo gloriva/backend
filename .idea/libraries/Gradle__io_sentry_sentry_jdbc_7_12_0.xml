@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: io.sentry:sentry-jdbc:7.12.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="io.sentry" artifactId="sentry-jdbc" version="7.12.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.sentry/sentry-jdbc/7.12.0/83bd3c41503d7db1e150b60da23d4df193513143/sentry-jdbc-7.12.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

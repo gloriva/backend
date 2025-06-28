@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: io.sentry:sentry-log4j2:7.12.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="io.sentry" artifactId="sentry-log4j2" version="7.12.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.sentry/sentry-log4j2/7.12.0/1579d244239a18ca20130209e3be84128dd16e8a/sentry-log4j2-7.12.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

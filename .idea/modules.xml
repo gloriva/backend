@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/church-platform.iml" filepath="$PROJECT_DIR$/.idea/modules/church-platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/church-platform.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/church-platform.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/dependencies/church-platform.common.dependencies.iml" filepath="$PROJECT_DIR$/.idea/modules/common/dependencies/church-platform.common.dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/dependencies/church-platform.common.dependencies.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/dependencies/church-platform.common.dependencies.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/dependencies/church-platform.common.dependencies.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/dependencies/church-platform.common.dependencies.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/services/church-platform.services.iml" filepath="$PROJECT_DIR$/.idea/modules/services/church-platform.services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/services/bible-service/church-platform.services.bible-service.iml" filepath="$PROJECT_DIR$/.idea/modules/services/bible-service/church-platform.services.bible-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/services/bible-service/church-platform.services.bible-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/services/bible-service/church-platform.services.bible-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/services/bible-service/church-platform.services.bible-service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/services/bible-service/church-platform.services.bible-service.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/services/shorturl-service/church-platform.services.shorturl-service.iml" filepath="$PROJECT_DIR$/.idea/modules/services/shorturl-service/church-platform.services.shorturl-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/services/shorturl-service/church-platform.services.shorturl-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/services/shorturl-service/church-platform.services.shorturl-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/services/shorturl-service/church-platform.services.shorturl-service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/services/shorturl-service/church-platform.services.shorturl-service.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/services/user-service/church-platform.services.user-service.iml" filepath="$PROJECT_DIR$/.idea/modules/services/user-service/church-platform.services.user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/services/user-service/church-platform.services.user-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/services/user-service/church-platform.services.user-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/services/user-service/church-platform.services.user-service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/services/user-service/church-platform.services.user-service.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/services/weekly-service/church-platform.services.weekly-service.iml" filepath="$PROJECT_DIR$/.idea/modules/services/weekly-service/church-platform.services.weekly-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/services/weekly-service/church-platform.services.weekly-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/services/weekly-service/church-platform.services.weekly-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/services/weekly-service/church-platform.services.weekly-service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/services/weekly-service/church-platform.services.weekly-service.test.iml" />
+    </modules>
+  </component>
+</project>

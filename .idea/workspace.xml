@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="234b458a-852e-4289-b234-5bc2491508ae" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bible-service/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/services/bible-service/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bible-service/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bible-service/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bible-service/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bible-service/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bible-service/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bible-service/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/services/bible-service/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bible-service/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/services/bible-service/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bible-service/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/services/bible-service/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bible-service/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/services/bible-service/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bible-service/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/services/bible-service/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bible-service/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bible-service/src/main/java/org/church/bible/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/services/bible-service/src/main/java/org/church/bible/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shorturl-service/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/services/shorturl-service/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shorturl-service/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shorturl-service/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shorturl-service/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shorturl-service/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shorturl-service/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/services/shorturl-service/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shorturl-service/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/services/shorturl-service/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shorturl-service/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/services/shorturl-service/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shorturl-service/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/services/shorturl-service/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shorturl-service/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/services/shorturl-service/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shorturl-service/src/main/java/org/church.shorturl/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/services/shorturl-service/src/main/java/org/church.shorturl/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-service/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/services/user-service/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-service/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/services/user-service/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-service/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/services/user-service/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-service/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/services/user-service/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-service/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/services/user-service/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-service/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/services/user-service/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-service/src/main/java/org/church.user/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/services/user-service/src/main/java/org/church.user/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weekly-service/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/services/weekly-service/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weekly-service/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weekly-service/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weekly-service/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weekly-service/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weekly-service/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/services/weekly-service/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weekly-service/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/services/weekly-service/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weekly-service/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/services/weekly-service/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weekly-service/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/services/weekly-service/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weekly-service/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/services/weekly-service/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weekly-service/src/main/java/org/church.weekly/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/services/weekly-service/src/main/java/org/church.weekly/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/services/bible-service">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/common">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/common/dependencies">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="church-platform" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="church-platform" type="f1a62948:ProjectNode" />
+                <item name="services" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="church-platform" type="f1a62948:ProjectNode" />
+                <item name="services" type="2d1252cf:ModuleNode" />
+                <item name="bible-service" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="church-platform" type="f1a62948:ProjectNode" />
+                <item name="services" type="2d1252cf:ModuleNode" />
+                <item name="bible-service" type="2d1252cf:ModuleNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="church-platform" type="f1a62948:ProjectNode" />
+                <item name="services" type="2d1252cf:ModuleNode" />
+                <item name="bible-service" type="2d1252cf:ModuleNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+                <item name="compileClasspath" type="62daadca:ExternalSystemViewDefaultContributor$DependencyScopeExternalSystemNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="church-platform" type="f1a62948:ProjectNode" />
+                <item name="services" type="2d1252cf:ModuleNode" />
+                <item name="bible-service" type="2d1252cf:ModuleNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+                <item name="runtimeClasspath" type="62daadca:ExternalSystemViewDefaultContributor$DependencyScopeExternalSystemNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="church-platform" type="f1a62948:ProjectNode" />
+                <item name="services" type="2d1252cf:ModuleNode" />
+                <item name="bible-service" type="2d1252cf:ModuleNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+                <item name="testCompileClasspath" type="62daadca:ExternalSystemViewDefaultContributor$DependencyScopeExternalSystemNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="church-platform" type="f1a62948:ProjectNode" />
+                <item name="services" type="2d1252cf:ModuleNode" />
+                <item name="bible-service" type="2d1252cf:ModuleNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+                <item name="testRuntimeClasspath" type="62daadca:ExternalSystemViewDefaultContributor$DependencyScopeExternalSystemNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="church-platform" type="f1a62948:ProjectNode" />
+                <item name="services" type="2d1252cf:ModuleNode" />
+                <item name="shorturl-service" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="church-platform" type="f1a62948:ProjectNode" />
+                <item name="services" type="2d1252cf:ModuleNode" />
+                <item name="shorturl-service" type="2d1252cf:ModuleNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="church-platform" type="f1a62948:ProjectNode" />
+                <item name="services" type="2d1252cf:ModuleNode" />
+                <item name="shorturl-service" type="2d1252cf:ModuleNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+                <item name="runtimeClasspath" type="62daadca:ExternalSystemViewDefaultContributor$DependencyScopeExternalSystemNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="church-platform" type="f1a62948:ProjectNode" />
+                <item name="services" type="2d1252cf:ModuleNode" />
+                <item name="shorturl-service" type="2d1252cf:ModuleNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+                <item name="testCompileClasspath" type="62daadca:ExternalSystemViewDefaultContributor$DependencyScopeExternalSystemNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="church-platform" type="f1a62948:ProjectNode" />
+                <item name="services" type="2d1252cf:ModuleNode" />
+                <item name="user-service" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="church-platform" type="f1a62948:ProjectNode" />
+                <item name="services" type="2d1252cf:ModuleNode" />
+                <item name="user-service" type="2d1252cf:ModuleNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KotlinScriptingSettings">
+    <scriptDefinition className="org.jetbrains.kotlin.scripting.resolve.KotlinScriptDefinitionFromAnnotatedTemplate" definitionName="KotlinInitScript">
+      <order>0</order>
+    </scriptDefinition>
+    <scriptDefinition className="org.jetbrains.kotlin.scripting.resolve.KotlinScriptDefinitionFromAnnotatedTemplate" definitionName="KotlinSettingsScript">
+      <order>1</order>
+    </scriptDefinition>
+    <scriptDefinition className="org.jetbrains.kotlin.scripting.resolve.KotlinScriptDefinitionFromAnnotatedTemplate" definitionName="KotlinBuildScript">
+      <order>2</order>
+    </scriptDefinition>
+    <scriptDefinition className="circlet.pipelines.config.dsl.scriptdefinition.ProjectScriptDefinition" definitionName="ProjectScriptDefinition">
+      <order>3</order>
+      <isEnabled>false</isEnabled>
+    </scriptDefinition>
+    <scriptDefinition className="org.jetbrains.kotlin.mainKts.MainKtsScript" definitionName="MainKtsScript">
+      <order>4</order>
+      <isEnabled>false</isEnabled>
+    </scriptDefinition>
+    <scriptDefinition className="kotlin.script.templates.standard.ScriptTemplateWithBindings" definitionName="Script definition for extension scripts and IDE console">
+      <order>5</order>
+      <isEnabled>false</isEnabled>
+    </scriptDefinition>
+    <scriptDefinition className="org.jetbrains.kotlin.idea.core.script.BundledIdeScriptDefinition" definitionName="Kotlin Script">
+      <order>6</order>
+    </scriptDefinition>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2z7e92jIPXS61xZxTCYGDSjMJgC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Build church-platform.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.church-platform [projects].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.church-platform:services:bible-service [:services:bible-service:Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/develop_Project/church-platform/services/bible-service&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\develop_Project\church-platform\services" />
+      <recent name="C:\develop_Project\church-platform" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.church.bible.Main" />
+      <module name="church-platform.services.bible-service.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.church.bible.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="church-platform [projects]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="projects" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.church-platform [projects]" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="234b458a-852e-4289-b234-5bc2491508ae" name="Changes" comment="" />
+      <created>1751086383875</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751086383875</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
